@@ -83,7 +83,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w120133073
 http://190.61.102.67:8000/play/a06t
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/1200px-Warner_TV_logo.svg.png" group-title="Películas y Series",Warner Channel
-http://45.232.211.196:1080/play/a03x
+http://168.194.171.33:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="Películas y Series",A&E
 http://45.232.211.196:1080/play/a03v
@@ -107,7 +107,7 @@ http://45.232.211.196:1080/play/a00u
 http://45.232.211.196:1080/play/a00i
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Entretenimiento",Distrito Comedia
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+http://user.tvcluboficial.com/stream/web/play/32.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Entretenimiento",Nick
 http://45.232.211.196:1080/play/a047
