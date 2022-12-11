@@ -47,7 +47,7 @@ http://190.61.102.67:31589/play/a038/index.m3u8
 http://190.60.39.62:8000/play/a034
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657.ts
+https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030797
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f8d72b928e0cc4abc4_telemundo.png" group-title="Entretenimiento",Telemundo Int.
 http://190.92.25.115:8000/play/a0ak
