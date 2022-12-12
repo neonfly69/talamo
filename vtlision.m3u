@@ -109,9 +109,11 @@ http://45.232.211.196:1080/play/a00i
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=701f3b&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fplutocineaccion.png" group-title="Películas y Series",Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
 #EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Estrellas-de-Accion-Pluto-TV.jpg" group-title="Películas y Series",Estrellas de Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Estrellas-de-Accion-Pluto-TV.jpg" group-title="Películas y Series",Cine Estelar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5d1948&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fplutocineclasico.png" group-title="Películas y Series",Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -125,6 +127,9 @@ http://45.232.211.196:1080/play/a047
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="Entretenimiento",Teen Nick
 http://190.61.102.67:8000/play/a04l
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZCrmMYLxwn0/YUAYSmUPM4I/AAAAAAAAATc/KSzXyQMF3pMOAT9PrJ0Z0kfLdfooyWjPQCLcBGAsYHQ/s1920/plutotv%2Bnickteen.png" group-title="Entretenimiento",Teen Nick Pluto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/1200px-Nick_logo_2009.svg.png" group-title="Entretenimiento",Nick Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture&buildVersion&clientTime&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&fbclid=IwAR1GGKxiPcP70KNXOHE2jLT0GCw549WCCinpdVTzkYAMRv2C4Y1walWw9t4
 
@@ -133,6 +138,9 @@ http://190.61.102.67:8000/play/a03s
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Entretenimiento",Tooncast
 http://181.189.243.254:8000/play/a0s3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jrsy.tmsimg.com/assets/p18368280_b_h9_aa.jpg" group-title="Entretenimiento",Animaciones Clásicas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones
 http://45.232.211.196:1080/play/a04e
@@ -220,3 +228,6 @@ http://51.222.108.195:25461/0014497A076E/XtrmWin69/14201
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.png" group-title="24/7",Tom y Jerry
 http://51.222.108.195:25461/0014497A076E/XtrmWin69/14163
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/550x/a1/88/5b/a1885b75c13ac52ef1e5ba6d022d1ffb.jpg" group-title="24/7",Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
