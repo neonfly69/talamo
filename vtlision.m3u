@@ -124,7 +124,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4ec
 http://user.tvcluboficial.com/stream/web/play/32.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Entretenimiento",Nick
-http://45.232.211.196:1080/play/a047
+http://190.61.102.67:31589/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="Entretenimiento",Teen Nick
 http://190.61.102.67:8000/play/a04l
