@@ -88,7 +88,7 @@ http://190.61.102.67:8000/play/a06t
 http://168.194.171.33:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="Películas y Series",A&E
-http://45.232.211.196:1080/play/a03v
+http://190.92.25.115:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Películas y Series",AXN
 http://45.232.211.196:1080/play/a03y
@@ -124,7 +124,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4ec
 http://45.5.117.138:8005/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Entretenimiento",Nick
-http://190.61.102.67:8000/play/a05y
+http://play.flamaplus.tv/live/ctvDS321/427ddJG4/381.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="Entretenimiento",Teen Nick
 http://190.61.102.67:8000/play/a04l
@@ -227,6 +227,12 @@ http://51.222.108.195:25461/0014497A076E/XtrmWin69/14201
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.png" group-title="24/7",Tom y Jerry
 http://51.222.108.195:25461/0014497A076E/XtrmWin69/14163
+
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5890d8ddb2cb5b18709ca621.png" group-title="24/7",El pájaro loco
+http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/87339
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="24/7",La familia P. Luche
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f85f1dc1418bd0007e11eb9" tvg-id="5f85f1dc1418bd0007e11eb9" tvg-chno="108" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="24/7",Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
