@@ -1,19 +1,25 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/1200px-TCS_35_2017.png" group-title="Nacionales",TCS+
-http://clubtv.link/1812dic/key5540/lista3.php?c=a01v
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/800px-Canal_2_TCS.png" group-title="Nacionales",Canal 2
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=2000000-audio_0=64000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="Nacionales",Canal 4
+http://200.229.147.76:4000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="Nacionales",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Agape_8_2001.png" group-title="Nacionales",Canal 8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/agapetv8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/agapetv8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/1920px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="Nacionales",Canal 10
 http://190.61.102.67:8000/play/a00o
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="Nacionales",Canal 11
+https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="Nacionales",Canal 12
 https://d3kk75blondskv.cloudfront.net/hls/canal12_220.m3u8
