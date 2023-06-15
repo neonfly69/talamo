@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://magazinetv1.com/wp-content/uploads/2023/05/cropped-retina-musician-1.png" group-title="Nacionales",Magazine TV
-https://panel.streamingtv-mediacp.online:1936/8006/8006/playlist.m3u8
+https://panel.streamingtv-mediacp.online:1936/8006/8006/chunklist_w147949923.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/1200px-TCS_35_2017.png" group-title="Nacionales",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
