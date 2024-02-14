@@ -10,7 +10,7 @@ https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e
 http://200.229.147.76:4000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="Nacionales",Canal 6
-https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-video=2000000-audio_0=64000.m3u8
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/1920px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="Nacionales",Canal 10
 http://190.61.102.67:8000/play/a00o
