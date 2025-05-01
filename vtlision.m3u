@@ -50,7 +50,7 @@ http://201.247.102.189/tmp_hls/stream/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Entretenimiento",Las Estrellas
-http://190.61.102.67:31589/play/a00g/index.m3u8
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="Entretenimiento",Canal 5
 http://190.61.102.67:31589/play/a038/index.m3u8
@@ -58,8 +58,8 @@ http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png" group-title="Entretenimiento",Canal RCN
 http://190.60.39.62:8000/play/a034
 
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030797
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/3/36/Telemundopr.png/revision/latest?cb=20231026153837" group-title="Entretenimiento",Telemundo: PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/featuredImage.jpg" group-title="Música",Vevo True School Hip-Hop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -102,21 +102,3 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w120133073
 
 #EXTINF:-1 tvg-logo="https://www.retromusictv.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.43236139.png&w=3840&q=75" group-title="Música",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Películas y Series",AXN
-http://45.232.211.196:1080/play/a03y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="Películas y Series",HBO Plus
-http://45.232.211.196:1080/play/a00j
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Películas y Series",HBO Xtreme
-http://45.232.211.196:1080/play/a00k
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="Películas y Series",HBO Family
-http://45.232.211.196:1080/play/a00l
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Películas y Series",HBO
-http://45.232.211.196:1080/play/a00u
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Películas y Series",HBO 2
-http://45.232.211.196:1080/play/a00i
