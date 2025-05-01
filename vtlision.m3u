@@ -1,49 +1,49 @@
-#EXTINF:-1 tvg-id="TCSPlus.sv",TCS+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/1200px-TCS_35_2017.png" group-title="Nacionales",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/800px-Canal_2_TCS.png" group-title="Nacionales" tvg-id="Canal2.sv",Canal 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/800px-Canal_2_TCS.png" group-title="Nacionales",Canal 2
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1.png" group-title="Nacionales" tvg-id="Canal3Impresionante.sv",Canal 3 - Impresionante
+#EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1.png" group-title="Nacionales",Impresionante/Canal 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="Nacionales" tvg-id="Canal4.sv",Canal 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="Nacionales",Canal 4
 http://45.5.116.178:8000/play/a03p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="Nacionales" tvg-id="Canal6.sv",Canal 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="Nacionales",Canal 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/1920px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="Nacionales",Canal 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/1920px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="Nacionales",TvEs/Canal 10
 http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="Nacionales" tvg-id="Canal11TuTV.sv",Canal 11 - TuTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="Nacionales",TuTV/Canal 11
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="Nacionales" tvg-id="Canal12.sv",Canal 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png" group-title="Nacionales",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online.png" group-title="Nacionales" tvg-id="TaberTV.sv",Taber TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online.png" group-title="Nacionales",Taber TV/Canal 17
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="Nacionales" tvg-id="MegavisionCanal19.sv",Megavisión - Canal 19 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="Nacionales",Megavisión/Canal 19 
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="Nacionales" tvg-id="MegavisionCanal21.sv",Megavisión - Canal 21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png" group-title="Nacionales",Megavisión/Canal 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-27-Elim-TV-en-vivo-Online.png" group-title="Nacionales" tvg-id="ElimTV.sv",Elim TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09
-
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Nacionales" tvg-id="WOWTV.sv",WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/neonfly69/talamo/blob/main/tvcret-removebg-preview.png" group-title="Nacionales" tvg-id="TVCRET.sv",TV CRET
-https://radiocret.net:8082/hls/tvcret.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_Orbita_Tv.png" group-title="Nacionales" tvg-id="OrbitaTV.sv",Órbita TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_Orbita_Tv.png" group-title="Nacionales",Órbita TV/Canal 25
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvm.com.sv/wp-content/uploads/2021/06/cropped-PWA.png" group-title="Nacionales" tvg-id="TVMElSalvador.sv",TVM El Salvador
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-27-Elim-TV-en-vivo-Online.png" group-title="Nacionales",Elim TV/Canal 27
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Nacionales",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/neonfly69/talamo/blob/main/tvcret-removebg-preview.png" group-title="Nacionales",TV CRET
+https://radiocret.net:8082/hls/tvcret.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvm.com.sv/wp-content/uploads/2021/06/cropped-PWA.png" group-title="Nacionales",TVM El Salvador
 http://201.247.102.189/tmp_hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="Información",DW Español
